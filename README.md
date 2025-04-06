@@ -1,4 +1,19 @@
-<h2 align="left">Desarrollador con más de 3 años de experiencia en entornos empresariales, especializado en entorno .NET, SQL Server y mantenimiento de aplicaciones legacy. Actualmente trabajando en el sector público mientras continúo formándome en buenas prácticas de desarrollo, arquitectura limpia y migración de proyectos a C#.<br><br>Apasionado por la tecnología, con actitud proactiva y muchas ganas de seguir aprendiendo. Aquí comparto proyectos personales y ejercicios con los que pongo en práctica lo que voy aprendiendo en mi camino hacia convertirme en un desarrollador más sólido y versátil</h2>
+👋 ¡Hola, soy Javier!
+🎓 Licenciado en Desarrollo de Software | 🛡️ Especialista en entornos .NET
+
+🚀 Apasionado por la tecnología, la innovación y la creación de soluciones digitales seguras.
+🌐 Siempre aprendiendo y explorando nuevas herramientas para proteger el mundo digital.
+
+---
+
+🌟 ¿Qué encontrarás aquí?
+🖥️ Proyectos y soluciones en entornos .NET.
+🔒 Recursos enfocados en ciberseguridad.
+📚 Contribuciones a la comunidad tecnológica.
+
+---
+
+Desarrollador con más de 3 años de experiencia en entornos empresariales, especializado en entorno .NET, SQL Server y mantenimiento de aplicaciones legacy. Actualmente trabajando en el sector público mientras continúo formándome en buenas prácticas de desarrollo, arquitectura limpia y migración de proyectos a C#.<br><br>Apasionado por la tecnología, con actitud proactiva y muchas ganas de seguir aprendiendo. Aquí comparto proyectos personales y ejercicios con los que pongo en práctica lo que voy aprendiendo en mi camino hacia convertirme en un desarrollador más sólido y versátil
 
 ###
 
@@ -46,6 +61,7 @@
 
 ###
 
+📫 ¡Conectemos!
 <div align="left">
   <a href="javierferben@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
