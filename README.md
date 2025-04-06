@@ -64,6 +64,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/javilinco1/javilinco1/output/snake.svg" alt="Snake animation" />
-
 ###
